@@ -1,26 +1,26 @@
-## Git Commands
+# Git Commands
 
-# Initialize repository
+## Initialize repository
 ```sh
 $ git init
 ```
 
-# Check files in repository
+## Check files in repository
 ```
 $ git status
 ```
 
-# Start tracking a file in the repository
+## Start tracking a file in the repository
 ```
 $ git add <file> [--all]
 ```
 
-# Untrack a file
+## Untrack a file
 ```
 $ git rm --cached <file>
 ```
 
-# Save tracked files into the repository
+## Save tracked files into the repository
 ```
 $ git commit -m <message>
 ```
